@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestAccel</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="shake">Shake to get a toast and to switch color</string>
+    <string name="shuffed">Device was shuffed</string>
+    <string name="noAccel">Sorry, there is no accelerometer</string>
+    <string name="luminic">Luminic sensor exist</string>
+    <string name="noLuminic">Lumic sensor does not exist</string>
+    <string name="newLuminic">New value light sensor =</string>
+    <string name="low">LOW intensity</string>
+    <string name="medium">MEDIUM intensity</string>
+    <string name="high">HIGH intensity</string>
+
+</resources>
